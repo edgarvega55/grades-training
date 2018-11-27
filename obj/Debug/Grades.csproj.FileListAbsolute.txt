@@ -1,0 +1,7 @@
+C:\Users\viaro-16\Documents\training c#\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\viaro-16\Documents\training c#\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\viaro-16\Documents\training c#\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\viaro-16\Documents\training c#\Grades\Grades\obj\Debug\Grades.csprojAssemblyReference.cache
+C:\Users\viaro-16\Documents\training c#\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\viaro-16\Documents\training c#\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\viaro-16\Documents\training c#\Grades\Grades\obj\Debug\Grades.pdb
